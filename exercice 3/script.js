@@ -1,5 +1,18 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/while-for#la-boucle-for
+    . https://fr.javascript.info/array
+    . https://fr.javascript.info/array#boucles
+
+
+    Objectifs : 
+        . Savoir parcourir un tableau à l'aide d'une boucle
+*/
+
 /*
-    Objectif : regarder ./asset/objectif.mp4
+    Regarder ./asset/objectif.mp4
 
     Pour réaliser l'exercice, vous disposez :
     . de la fonction drawBloc qui permet de dessiner un carré de couleur aléatoire sur la grille de dessin.
@@ -10,13 +23,7 @@
     
     Pensez à utiliser la console du navigateur pour tester ces fonctions et comprendre comment les utiliser.
 
-    Au besoin, quelques liens sur la documentation liée aux notions utiles à l'exercice :
-    . https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements
-    . https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
-    . https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
-    . Et voir aussi les exercices sur les tableaux vus en TD !
-    
-
+  
 */
 
 /*  Q1
