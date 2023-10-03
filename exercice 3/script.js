@@ -37,37 +37,6 @@
 */
 
 
-// Dessin du bord supérieur
-for(let col=0; col<25; col++)
-{
-    drawBloc(col, 0);
-}
-// dessin du bord indérieur
-for(let col=0; col<25; col++)
-{
-    drawBloc(col, 24);
-}
-// dessin du côté gauche
-for(let lig=0; lig<25; lig++)
-{
-    drawBloc(0, lig);
-}
-// dessin du côté droit
-for(let lig=0; lig<25; lig++)
-{
-    drawBloc(24, lig);
-}
-// dessin de la diagonale descendante
-for(let lig=0; lig<25; lig++)
-{
-    drawBloc(lig, lig);
-}
-// dessin de la diagonale montante
-for(let lig=0; lig<25; lig++)
-{
-    drawBloc(lig, 24-lig);
-}
-
 /*  Q2
 
     Pouvez-vous ré-écrire la même chose mais en utilisant qu'une seule et unique boucle ? (si c'est déjà fait)
