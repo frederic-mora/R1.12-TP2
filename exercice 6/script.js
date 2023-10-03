@@ -1,5 +1,18 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/while-for#la-boucle-for
+    . https://fr.javascript.info/array
+    . https://fr.javascript.info/array#boucles
+
+
+    Objectifs : 
+        . Savoir parcourir un tableau à l'aide d'une boucle
+*/
+
 /*
-    Objectif : regarder ./asset/objectif.jpg
+    Regarder ./asset/objectif.mp4
 
     Pour réaliser l'exercice, vous disposez :
     . de la fonction drawGrid qui permet d'afficher une grille sur le canvas pour vous aider
@@ -8,12 +21,6 @@
     La fonction drawGrid ne prend pas de paramètre et ne retourne pas de valeur.
 
     Pensez à utiliser la console du navigateur pour tester ces fonctions et comprendre comment les utiliser.
-
-    Au besoin, quelques liens sur la documentation liée aux notions utiles à l'exercice :
-    . https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Statements/function
-    . Et voir aussi les exercices sur les tableaux vus en TD !
-    
-
 */
 
 
