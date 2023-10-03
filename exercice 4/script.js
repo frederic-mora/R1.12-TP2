@@ -68,15 +68,3 @@ let smiley = [
     Mais vous pouvez en choisir d'autres
     Note 2 : a priori, il sera plus "direct" d'utiliser une boucle for qu'une boucle for..of dans cet exercice. Mais ce n'est pas impossible non plus.
 */
-
-let color = ['cadetblue', 'white', 'black', 'orange', 'red'];
-
-for(let li=0; li<smiley.length; li++)
-{
-    let row = smiley[li];
-    for(let co=0; co<row.length; co++)
-    {  
-        let codeCouleur = row[co];
-        drawBloc(co, li, color[ codeCouleur ]);
-    }
-}
