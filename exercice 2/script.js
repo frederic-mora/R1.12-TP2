@@ -1,5 +1,18 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/while-for#la-boucle-for
+    . https://fr.javascript.info/array
+    . https://fr.javascript.info/array#boucles
+
+
+    Objectifs : 
+        . Savoir parcourir un tableau à l'aide d'une boucle
+*/
+
 /*
-    Objectif : regarder ./asset/objectif.mp4
+    Regarder ./asset/objectif.mp4
 
     Pour réaliser l'exercice, vous disposez :
     . de la fonction addMenu qui prend en paramètre une chaîne de caractères et la fait apparaître
@@ -10,13 +23,7 @@
     La fonction fera apparaître le sous-menu dans la page web. Elle ne retourne pas de valeur.
 
     Pensez à utiliser la console du navigateur pour tester ces fonctions et comprendre comment les utiliser.
-
-    Au besoin, quelques liens sur la documentation liée aux notions utiles à l'exercice :
-    . https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements
-    . https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
-    . https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
-    . Et voir aussi les exercices sur les tableaux vus en TD !
-    
+  
     Il y a plusieurs questions. Commentez vos réponses avant de passer à la suivante pour qu'il n'y
     ait pas d'interférence dans l'exécution de votre code.
 
@@ -66,4 +73,5 @@ let nav = [
     Eventuellement, vous pouvez procéder en 2 temps. D'abord les menus, puis les menus avec sous-menus.
 
     Essayez d'écrire 2 versions de votre code, une avec la boucle for..of, l'autre avec la boucle for
+     Consultez au besoin les liens vers la documentation indiqués au début de ce fichier.
 */

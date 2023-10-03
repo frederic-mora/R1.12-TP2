@@ -1,3 +1,16 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/while-for#la-boucle-for
+    . https://fr.javascript.info/array#boucles
+
+
+    Objectifs : 
+
+        . Savoir parcourir un tableau à l'aide d'une boucle
+*/
+
 /*
     Objectif : regarder ./asset/objectif.mp4 (correspond à la Q3)
 
@@ -142,7 +155,8 @@ let legos = [
     doit continuer à fonctionner sans avoir à la modifier.
 
     Essayer de proposer une solution basée sur la boucle for, et une autre sur la boucle for..of
-    (La logique sera la même, seule la syntaxe sera différente)
+    (La logique sera la même, seule la syntaxe sera différente) 
+    Consultez au besoin les liens indiqués en haut de ce fichier.
 */
 
 
